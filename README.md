@@ -87,7 +87,12 @@ Também foi definido que o episódio deveria utilizar uma linguagem simples, nat
 
 ## 🎨 Identidade visual
 
-A identidade visual do podcast também foi desenvolvida com apoio de Inteligência Artificial.
+Durante o projeto, também explorei o uso do **Midjourney** para geração de imagens com Inteligência Artificial e aprendi como estruturar prompts para esse tipo de ferramenta.
+
+Como a geração de imagens no Midjourney exigia um plano pago, optei por utilizar o **ChatGPT para gerar as imagens finais do projeto**, mantendo a proposta visual definida nos prompts.
+
+Esse processo também fez parte do aprendizado, já que permitiu comparar diferentes ferramentas de IA e adaptar a solução de acordo com os recursos disponíveis.
+
 
 A proposta foi criar uma imagem que representasse:
 
@@ -126,6 +131,7 @@ A versão visual e organizada do projeto pode ser acessada no Notion:
 ## 🛠️ Ferramentas utilizadas
 
 - **ChatGPT** — criação e refinamento dos prompts e do roteiro
+- **Midjourney** — ferramenta estudada durante o projeto para geração de imagens por IA
 - **ElevenLabs** — geração da voz
 - **CapCut** — edição do áudio
 - **Notion** — organização visual do projeto
