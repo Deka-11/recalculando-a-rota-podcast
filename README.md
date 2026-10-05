@@ -2,7 +2,7 @@
 
 Podcast criado como projeto da DIO, utilizando ferramentas de Inteligência Artificial para desenvolver um episódio sobre transição de carreira após os 35 anos.
 
-![Capa do Podcast](assets/capa-podcast.png)
+![Capa do Podcast](capapodcast.png)
 
 ---
 
@@ -99,7 +99,7 @@ A proposta foi criar uma imagem que representasse:
 - tons azul e roxo;
 - expressão segura e determinada.
 
-![Imagem do Podcast](imagem-episodio.png)
+![Imagem do Podcast](podcast.png)
 
 ---
 
