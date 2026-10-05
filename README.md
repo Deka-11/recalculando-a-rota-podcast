@@ -99,7 +99,7 @@ A proposta foi criar uma imagem que representasse:
 - tons azul e roxo;
 - expressão segura e determinada.
 
-![Imagem do Podcast](podcast.png)
+![Imagem do Podcast](Podcast.png)
 
 ---
 
@@ -107,13 +107,19 @@ A proposta foi criar uma imagem que representasse:
 
 O episódio foi produzido com narração gerada por IA e posteriormente editado no CapCut.
 
-###  🎧 Ouça o episódio
+## 🎧 Ouça o episódio
 
 🎙️ **Episódio 01 — Mudar de carreira depois dos 35: tarde demais?**
 
 [▶️ Clique aqui para ouvir o episódio](./Podcast_audio_under5MB.mp3?raw=1)
 
 **Duração:** aproximadamente 4min31s
+---
+ ## 📌 Projeto no Notion
+
+A versão visual e organizada do projeto pode ser acessada no Notion:
+
+[🔗 Acessar o projeto no Notion](https://app.notion.com/p/Recalculando-a-Rota-Podcast-3ed80ca2839880c4800afaeb0877cd67)
 
 ---
 
