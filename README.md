@@ -107,9 +107,11 @@ A proposta foi criar uma imagem que representasse:
 
 O episódio foi produzido com narração gerada por IA e posteriormente editado no CapCut.
 
-### ▶️ Episódio 01
+###  🎧 Ouça o episódio
 
-[Mudar de carreira depois dos 35: tarde demais?](Podcast_audio_under5MB.mp3)
+🎙️ **Episódio 01 — Mudar de carreira depois dos 35: tarde demais?**
+
+[▶️ Clique aqui para ouvir o episódio](./Podcast_audio_under5MB.mp3?raw=1)
 
 **Duração:** aproximadamente 4min31s
 
