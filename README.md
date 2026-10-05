@@ -52,7 +52,7 @@ Para desenvolver o roteiro, foram utilizados prompts detalhados no ChatGPT, defi
 
 ### Prompt 1 — Tema, público e direcionamento
 
-![Prompt 1](assets/Prompt1.png)
+![Prompt 1](Prompt1.png)
 
 Neste primeiro prompt foram definidos:
 
@@ -69,7 +69,7 @@ Neste primeiro prompt foram definidos:
 
 ### Prompt 2 — Estrutura do episódio
 
-![Prompt 2](assets/Prompt2.png)
+![Prompt 2](Prompt2.png)
 
 No segundo prompt, foi definida a estrutura do episódio:
 
@@ -99,7 +99,7 @@ A proposta foi criar uma imagem que representasse:
 - tons azul e roxo;
 - expressão segura e determinada.
 
-![Imagem do Podcast](assets/imagem-episodio.png)
+![Imagem do Podcast](imagem-episodio.png)
 
 ---
 
@@ -109,7 +109,7 @@ O episódio foi produzido com narração gerada por IA e posteriormente editado 
 
 ### ▶️ Episódio 01
 
-[Mudar de carreira depois dos 35: tarde demais?](episodio/episodio-01.mp4)
+[Mudar de carreira depois dos 35: tarde demais?](Podcast_audio_under5MB.mp3)
 
 **Duração:** aproximadamente 4min31s
 
